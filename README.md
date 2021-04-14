@@ -1,9 +1,9 @@
 # 108-1_DataStructure
 All homework of 108-1 NCKU Data Structure.
 
-There are 10 pieces of homework in branches but hw7 only has assignment.
+There are 10 pieces of homework in folders but hw7 only has assignment.
 
-Each branch at least contains one assignment in pdf.
+Each folder at least contains one assignment in pdf.
 
 1. Time complexity(document), recursive(Ackerman's Function, Power Set)
 2. Solitaire
