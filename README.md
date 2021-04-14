@@ -16,4 +16,4 @@ Each branch at least contains one assignment in pdf.
 9. AOE Network, K-Shortest Paths(Optional)
 10. Comparisons and proofs of kinds of sorts(document and program)
 
-* That homework may contains some erroes.
+\*That homework may contains some errors.
